@@ -14,6 +14,7 @@ public class CasetaFeria {
 
     // Constructor, getters y setters
     public CasetaFeria(int id, String tipoCaseta, int aforo, String titular, String nombre) {
+        this.id=id;
         this.tipoCaseta = tipoCaseta;
         this.aforo = aforo;
         this.titular = titular;

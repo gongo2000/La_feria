@@ -19,29 +19,24 @@ public class CrearObjets {
             return casetaslista;
         }
 
-        public void setCasetas (List < CasetaFeria > casetas) {
-            this.casetaslista = casetas;
-        }
 
 
         //cargamos las casetas q hay dentro del archivo wen el array
         public void Carga (String casetas) {
 
                 this.casetaslista = new ArrayList<CasetaFeria>();
-                Path ficherCaseta = Paths.get("D://2dam//Aceso datos//La feria//src//main//java//org//example//ficheros//casetas.txt");
+            Path ficherCaseta = Paths.get("D://2dam//Aceso datos//La feria//src//main//java//org//example//ficheros//casetas.txt");
 
 
                 try {
                     List<String> lineas = Files.readAllLines(ficherCaseta);
-                    while (lineas != null) {
-                        //bucle para leer linea a linea y guardarlo
-                        for (String linea : lineas) {
-                            int id = 1;
-                            linea = linea.trim();
-                            String[] datos = linea.split(" - ");
-                            this.casetaslista.add(new CasetaFeria(id, datos[1], Integer.parseInt(datos[2]), datos[3], datos[4]));
+                    int id = 1;
+                    for (String linea : lineas) {
+                        linea = linea.trim();
+                        String[] datos = linea.split(" - ");
+                        if (datos.length == 4) {
+                            this.casetaslista.add(new CasetaFeria(id, datos[3], Integer.parseInt(datos[2]), datos[1], datos[0]));
                             id++;
-                            System.out.println(casetaslista);
                         }
                     }
 
