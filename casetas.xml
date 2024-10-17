@@ -1,2 +1,346 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<casetas/>
+<casetas>
+    <casetas>
+        <aforo>120</aforo>
+        <id>1</id>
+        <nombre>Caseta La Alegría</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Antonio Ruiz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>2</id>
+        <nombre>El Rincón del Sabor</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>María Pérez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>200</aforo>
+        <id>3</id>
+        <nombre>La Cazuela Jaenera</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Pedro López</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>180</aforo>
+        <id>4</id>
+        <nombre>Los Amigos del Sur</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Carmen García</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>5</id>
+        <nombre>El Fandango</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>José Fernández</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>170</aforo>
+        <id>6</id>
+        <nombre>La Gitana</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Isabel Martínez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>7</id>
+        <nombre>La Bodega del Sur</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Francisco Rodríguez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>160</aforo>
+        <id>8</id>
+        <nombre>La Caseta del Olivo</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Laura Sánchez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>100</aforo>
+        <id>9</id>
+        <nombre>El Patio Andaluz</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Juan González</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>210</aforo>
+        <id>10</id>
+        <nombre>El Cortijo del Sol</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Ana Gómez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>190</aforo>
+        <id>11</id>
+        <nombre>La Buena Vida</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Javier Morales</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>120</aforo>
+        <id>12</id>
+        <nombre>Los Flamencos</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Rocío Muñoz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>13</id>
+        <nombre>El Fogón Jaenero</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Luis Torres</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>14</id>
+        <nombre>El Arenal</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Eva Ramírez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>15</id>
+        <nombre>El Sabor del Campo</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Miguel Jiménez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>160</aforo>
+        <id>16</id>
+        <nombre>La Caseta Verde</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Sara Ortiz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>180</aforo>
+        <id>17</id>
+        <nombre>El Balcón del Sur</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Andrés Serrano</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>200</aforo>
+        <id>18</id>
+        <nombre>El Encuentro</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Lucía Ruiz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>19</id>
+        <nombre>La Taberna Flamenca</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Diego Castro</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>110</aforo>
+        <id>20</id>
+        <nombre>El Rincón Andaluz</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Patricia Martín</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>21</id>
+        <nombre>La Finca</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Sergio Sánchez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>120</aforo>
+        <id>22</id>
+        <nombre>El Barril del Sur</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Raquel Cano</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>170</aforo>
+        <id>23</id>
+        <nombre>La Caseta Dorada</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Alberto Navarro</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>24</id>
+        <nombre>La Campiña</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Silvia Molina</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>25</id>
+        <nombre>La Tertulia</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Carlos Castillo</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>160</aforo>
+        <id>26</id>
+        <nombre>El Rincón del Olivar</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Cristina Jiménez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>180</aforo>
+        <id>27</id>
+        <nombre>Los Amigos de Jaén</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Juan Carlos Herrera</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>28</id>
+        <nombre>El Lagar de la Abuela</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Marta Ruiz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>190</aforo>
+        <id>29</id>
+        <nombre>La Carreta</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Alejandro López</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>30</id>
+        <nombre>El Refugio</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Teresa Fernández</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>31</id>
+        <nombre>La Piconera</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>David García</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>160</aforo>
+        <id>32</id>
+        <nombre>La Almazara</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Sandra Gutiérrez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>110</aforo>
+        <id>33</id>
+        <nombre>La Taberna del Sol</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Antonio Jiménez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>120</aforo>
+        <id>34</id>
+        <nombre>El Pescador Andaluz</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Javier Ortega</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>35</id>
+        <nombre>El Mirador del Sur</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Laura Morales</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>36</id>
+        <nombre>La Jarana</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Juan Rodríguez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>37</id>
+        <nombre>Los Romeros</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Rocío Torres</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>160</aforo>
+        <id>38</id>
+        <nombre>El Porvenir</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Manuel Muñoz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>180</aforo>
+        <id>39</id>
+        <nombre>El Buen Sabor</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Cristina Ruiz</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>200</aforo>
+        <id>40</id>
+        <nombre>El Castillo</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Sergio Ramos</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>41</id>
+        <nombre>Los Andaluces</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>María Gil</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>120</aforo>
+        <id>42</id>
+        <nombre>La Estrella</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Francisco Gutiérrez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>110</aforo>
+        <id>43</id>
+        <nombre>La Terraza del Sur</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Raúl Navarro</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>130</aforo>
+        <id>44</id>
+        <nombre>El Almendro</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Ana López</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>140</aforo>
+        <id>45</id>
+        <nombre>El Rincón de la Feria</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Pablo Fernández</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>180</aforo>
+        <id>46</id>
+        <nombre>La Caseta Encantada</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Isabel Ortega</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>200</aforo>
+        <id>47</id>
+        <nombre>El Esplendor</nombre>
+        <tipoCaseta>Fiesta</tipoCaseta>
+        <nombtitularre>Luis Moreno</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>150</aforo>
+        <id>48</id>
+        <nombre>El Quinto Pino</nombre>
+        <tipoCaseta>Comida</tipoCaseta>
+        <nombtitularre>Carolina Sánchez</nombtitularre>
+    </casetas>
+    <casetas>
+        <aforo>170</aforo>
+        <id>49</id>
+        <nombre>La Alacena</nombre>
+        <tipoCaseta>Comida y fiesta</tipoCaseta>
+        <nombtitularre>Pedro Vargas</nombtitularre>
+    </casetas>
+</casetas>

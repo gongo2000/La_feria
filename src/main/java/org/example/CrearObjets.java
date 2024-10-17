@@ -25,7 +25,7 @@ public class CrearObjets {
         public void Carga (String casetas) {
 
                 this.casetaslista = new ArrayList<CasetaFeria>();
-            Path ficherCaseta = Paths.get("D://2dam//Aceso datos//La feria//src//main//java//org//example//ficheros//casetas.txt");
+            Path ficherCaseta = Paths.get("F://2dam//Aceso datos//La feria//casetas.txt");
 
 
                 try {
@@ -35,9 +35,11 @@ public class CrearObjets {
                         linea = linea.trim();
                         String[] datos = linea.split(" - ");
                         if (datos.length == 4) {
-                            this.casetaslista.add(new CasetaFeria(id, datos[3], Integer.parseInt(datos[2]), datos[1], datos[0]));
-                            id++;
+                            this.casetaslista.add(new CasetaFeria(datos[3], Integer.parseInt(datos[2]), datos[1], datos[0]));
                         }
+                    }
+                    for (int i = 0; i < casetaslista.size();i++){
+                        System.out.println(casetaslista.get(i));
                     }
 
                 } catch (Exception e) {
